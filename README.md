@@ -25,6 +25,6 @@ Layout 3: Using Random Forest Method to Predict Attrition Percentage Rate
 
 Conclusion:
 - Attrition is a critical topic for most companies as all businesses rely on employees
--Assist companies through data-driven decision making approach
-  -Hiring decision
-  -Predict whether certain employees have a high chance to attrite based on historical data
+- Assist companies through data-driven decision making approach
+  - Hiring decision
+  - Predict whether certain employees have a high chance to attrite based on historical data
