@@ -13,4 +13,4 @@ Each column provides general insights of the employee’s career history
 
 
 Dashboard Presentation:
-
+![alt text](https://github.com/antoniusraharja/Turnover-Dashboard/blob/efb84efe23a5d3ea19a47aebbfa91abccd4f23bf/Dashboard1.png)
